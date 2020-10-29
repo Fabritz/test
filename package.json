@@ -1,0 +1,22 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "nose",
+  "main": "script.js",
+  "scripts": {
+    "test": "jeje"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fabritz/test.git"
+  },
+  "keywords": [
+    "cool"
+  ],
+  "author": "Fabricio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fabritz/test/issues"
+  },
+  "homepage": "https://github.com/Fabritz/test#readme"
+}
